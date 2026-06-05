@@ -1,10 +1,3 @@
-text
-
-pandas
-matplotlib
-numpy
-scipy
-seaborn
 streamlit
-plotly
+pandas
 neurokit2
