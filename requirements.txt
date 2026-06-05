@@ -1,7 +1,4 @@
 streamlit
 pandas
 neurokit2
-scipy
-seaborn
-plotly
 EMD-signal
